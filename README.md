@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Felipe Eduardo.
-- 📖 I'm a MSc student at the Federal University of Minas Gerais.
+- 👋 Hi, I’m Felipe Eduardo.  
+- 📖 I'm a MSc student at the Federal University of Minas Gerais.  
+- 🧑‍🏫 Advisor: [Gabriel Coutinho](https://homepages.dcc.ufmg.br/~gabriel/)  
 - 🌱 Currently working on making my repositories more presentable, there's a lot of cool stuff here!
 
 <!---
