@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Felipe Eduardo.  
-- 📖 I'm a MSc student at the Federal University of Minas Gerais.  
+- 📖 MSc in Computer Science (Quantum Computing) from the Federal University of Minas Gerais (UFMG).
 - 🧑‍🏫 Advisor: [Gabriel Coutinho](https://homepages.dcc.ufmg.br/~gabriel/)  
 - 🌱 Currently working on making my repositories more presentable, there's a lot of cool stuff here!
 
